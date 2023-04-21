@@ -1,0 +1,67 @@
+.formulario{
+    
+    width:510px;
+    height:400px; 
+    align-items: center;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 400px;
+    background-color:black;
+    opacity: 0.8;
+    
+    
+}
+
+body{
+    background: url(imagens/fundo3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.elementos{
+  
+    width:500px;
+    height:400px; 
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 400px;
+    color:white;
+    font-family: arial;
+    padding-left: 20px;
+    padding-top: 20px;
+  
+}
+
+.btn{
+     width:300px;
+     height: 30px;
+     margin-left: 80px;
+     margin-top: 20px;
+     background-color:#1E90FF;
+     border-color: #1E90FF;
+     color:white;
+}
+
+.titulo{
+    color:white;
+    font-family:  serif;
+    width:500px;
+    display:block;
+    margin:auto;
+    margin-top: 80px;
+    margin-left: 535px;
+
+    
+}
+.aviao{
+    width:345px;
+    height:245px;
+    background: url(imagens/aviao.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 595px;
+    margin-top: 50px;
+    position:absolute;
+    
+}
+
